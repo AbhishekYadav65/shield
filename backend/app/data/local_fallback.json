@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "uuid": "f1a86244-da88-489b-bc7d-7970670ad8e4",
+      "role": "worker",
+      "name": "Test Worker",
+      "phone": "+919999999999",
+      "face_hash": "",
+      "id_hash": "",
+      "platform_links": [],
+      "created_at": "2025-12-27T20:53:27.155725"
+    },
+    {
+      "uuid": "931a8bca-4833-4216-a2d8-93507bdff89f",
+      "role": "supervisor",
+      "name": "Manager Smith",
+      "phone": "+918888888888",
+      "face_hash": "",
+      "id_hash": "",
+      "platform_links": [],
+      "created_at": "2025-12-27T20:55:53.302034"
+    }
+  ],
+  "workplace_bindings": [],
+  "shifts": [],
+  "verifications": []
+}
